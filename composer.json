@@ -1,5 +1,5 @@
 {
-  "name": "laravel/laravel",
+  "name": "desbiger/db-converter",
   "description": "The Laravel Framework.",
   "autoload": {
           "psr-4": {
