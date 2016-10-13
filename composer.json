@@ -1,0 +1,9 @@
+{
+  "name": "laravel/laravel",
+  "description": "The Laravel Framework.",
+  "autoload": {
+          "psr-4": {
+              "XdgBaseDir\\": "src/"
+          }
+      }
+}
