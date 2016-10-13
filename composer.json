@@ -1,6 +1,6 @@
 {
   "name": "desbiger/db-converter",
-  "description": "The Laravel Framework.",
+  "description": "FIAS xml converter to MySQL",
   "autoload": {
           "psr-4": {
               "XdgBaseDir\\": "src/"
