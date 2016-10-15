@@ -1,9 +1,10 @@
 {
   "name": "desbiger/db-converter",
   "description": "FIAS xml converter to MySQL",
+  "version" : "1.0",
   "autoload": {
           "psr-4": {
-              "XdgBaseDir\\": "src/"
+              "db-converter\\": "src/"
           }
       }
 }
