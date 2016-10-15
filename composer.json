@@ -2,6 +2,7 @@
   "name": "desbiger/db-converter",
   "description": "FIAS xml converter to MySQL",
   "version" : "1.0",
+  "license": "MIT",
   "autoload": {
           "psr-4": {
               "db-converter\\": "src/"
